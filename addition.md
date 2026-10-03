@@ -10,6 +10,6 @@ Example 2:
 
 15 + 3 = 18
 
-Example 3:
+Example 3: 
 
 10 + 7 = 17
