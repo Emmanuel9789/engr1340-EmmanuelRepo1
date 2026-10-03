@@ -9,3 +9,7 @@ Example:
 Example:
 
 15 + 3 = 18
+
+Example 2:
+
+10 + 7 = 17
